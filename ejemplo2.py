@@ -3,3 +3,7 @@ def mensaje2():
 
 def mensaje4():
     print("mi primera version")
+
+
+def mensaje7():
+    print("mi mensaje 7")
